@@ -1,0 +1,2 @@
+# latent-space
+a blog
