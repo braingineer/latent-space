@@ -1,2 +1,3 @@
 # latent-space
-a blog
+
+a place to start putting my technical writing. 
